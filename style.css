@@ -343,3 +343,9 @@ opacity: 0.2;
 {
     background-color: #fff;
 }
+.faq h4 span
+{
+    color: var(--primary-color);
+    font-size: 1.875rem;
+    margin-right: .3125rem;
+}
